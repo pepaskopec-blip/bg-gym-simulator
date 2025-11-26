@@ -1,2 +1,2 @@
 # bg-gym-simulator
-Game in .batch, first year at private secondary of inforamtional technology
+Game in .batch, first year at private secondary of informational technology
